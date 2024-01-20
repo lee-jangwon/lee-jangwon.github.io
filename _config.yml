@@ -21,9 +21,9 @@
 title: LeeJangWon Blog
 email: leejangwon1995@gmail.com
 description: # this means to ignore newlines until "baseurl:"
-  안녕하세요! 저는 기술과 혁신에 열정을 가진 개발자입니다. 이 블로그는 파이썬, GIS, Docker, AWS, Vue 등 다양한 기술을 공부하고 연구하는 저의 여정을 담은 공간입니다. 여기서는 최신 개발 트렌드, 프로그래밍 팁, 실용적인 코딩 방법론 등을 공유할 예정입니다. 이 블로그가 여러분의 기술적 성장에 도움이 되길 바라며, 저와 함께 성장해 나가는 여정에 동참해 주세요.
+  저는 다양한 기술을 연구하는 개발자입니다. 이 블로그에서 파이썬, GIS, Docker, AWS, Vue에 대한 지식과 경험을 공유합니다. 기술적 성장에 도움이 되는 내용을 제공하며, 함께 배우고 성장하는 여정에 초대합니다.
 
-  Welcome! I am a developer passionate about technology and innovation. This blog is a chronicle of my journey exploring various technologies like Python, GIS, Docker, AWS, Vue, and more. Here, I will share insights on the latest development trends, programming tips, and practical coding methodologies. I hope this blog aids in your technical growth, and I invite you to join me in this journey of learning and development.
+  I am a developer exploring various technologies. In this blog, I'll share knowledge and experiences on Python, GIS, Docker, AWS, Vue, aiming to aid your technical growth. Join me in this learning and evolving journey.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
