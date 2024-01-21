@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "캐글 교차 검증(Cross Validation) 리뷰"
+title: "캐글 Cross Validation 리뷰"
 date: 2024-01-21 19:15:00 
 categories: Python DataScience Kaggle ML
 ---
