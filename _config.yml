@@ -26,13 +26,16 @@ description: # this means to ignore newlines until "baseurl:"
   I am a developer exploring various technologies. In this blog, I'll share knowledge and experiences on Python, GIS, Docker, AWS, Vue, aiming to aid your technical growth. Join me in this learning and evolving journey.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lee-jangwon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lee-jangwon
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+future: true
+timezone: Asia/Seoul
 
 # Exclude from processing.
 # The following items will not be processed, by default.
