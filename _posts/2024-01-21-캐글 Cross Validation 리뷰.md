@@ -2,7 +2,7 @@
 layout: post
 title: "캐글 Cross Validation 리뷰"
 date: 2024-01-21 19:15:00 
-categories: Python DataScience Kaggle ML
+categories: [Python, DataScience, Kaggle, ML]
 ---
 
 머신 러닝을 주로 학습세트(Training set)와 평가세트(Validation Set)를 나누고 학습세트를 통해 학습한 모델을 평가세트로 검증하므로 모델의 정확도를 측정한다. 평가세트를 얼마나 크게, 또는 작게 나눌지는 모델을 실행시키는 사람의 마음이지만, 원천 데이터는 쪼개서 두 가지 용도로 사용한다는 것은 변함없다. 주로 학습세트와 평가세트를 8:2로 나누고, 파이썬은 `sklearn` 모듈의 `model_selection.train_test_split` 메서드로 아래와 같이 쉽게 나눌 수 있다.
