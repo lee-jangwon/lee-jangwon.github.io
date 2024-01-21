@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+# About Me는 소설형으로 작성할 계획이다
+1995년 가을, 인천이었다. 그 해 가을은 유독 늦게 찾아왔고, ㅇㅇ병원에서 태어난 아이도 원래 태어나기로한 날짜보다 몇 주나 늦게 찾아왔다. 그 아이는 태어나기 전부터 고집이 셋던걸까, 스스로 원하지 않으면 무슨일이 있어도 하지 않을 방법을 찾았고, 이런 고집을 부릴 때마다 그 아이의 어머니는 태어나기 전부터 고집이 남달랐다고 잔소리를 하셨다. To be continued...
