@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/en/
 lang: en
 ---
 
-## About Me
 [한국어로 보기](/about_kr.markdown)
 
 Hello! I’m a **Data Engineer** with a penchant for exploring the intersection of technology and real-world applications. My journey into tech began during my high school days, where my first project—building an air quality tester with **Arduino** and lasers—sparked my interest in the digital realm. I pursued this passion through my studies in Engineering Physics at the **University of Illinois Urbana-Champaign**.
