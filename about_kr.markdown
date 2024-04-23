@@ -3,6 +3,7 @@ layout: page
 title: About Me
 permalink: /about/kr/
 lang: kr
+exclude: true
 ---
 
 [Read in English](/about_en.markdown)
