@@ -37,6 +37,14 @@ plugins:
 future: true
 timezone: Asia/Seoul
 
+# Navigation links
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About Me"
+    url: "/about/en/"
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
